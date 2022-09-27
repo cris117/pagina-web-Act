@@ -1,0 +1,29 @@
+body {
+    height: 500px;
+    background-image: url("");
+  background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+  }
+
+  h2{
+    color: white;
+    text-align: center;
+  }
+  input{
+    
+    text-align: center;
+  }
+  img{
+    width: 5%; 
+    height: 5%;
+  }
+  table, th, td {
+    border-radius: 10px;
+    border-spacing: 50px;
+    text-align: center;
+    margin: 0;
+  }
+  table{
+    width: 100%;
+  }

@@ -1,0 +1,14 @@
+table,th, td {
+    border: 1px ;
+    border-radius: 10px;
+    
+  }
+#Hola{
+    text-align: center;
+}
+#comentario{
+  text-shadow: white;
+  text-align: center;
+}
+
+
